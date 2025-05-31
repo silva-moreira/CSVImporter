@@ -22,7 +22,16 @@ Este projeto em C# tem como objetivo importar dados financeiros de um arquivo CS
 1. **Clone o repositório**:
    ```bash
    git clone https://github.com/silva-moreira/seu-repositorio.git
+   
+2. **Configure a string de conexão:**
+   No início do arquivo Program.cs, substitua:
+   ```bash   
+   static string connectionString = @"";
 
+4. **Ajuste o caminho do CSV**:
+   Verifique e altere o caminho do arquivo CSV conforme sua máquina:
+   ```bash
+      var caminhoArquivo = @"C:\joaov\Clientes\CPR.csv";
 
 ## Autor 
 João Silva – @silva-moreira
