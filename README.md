@@ -13,7 +13,7 @@ Este projeto em C# tem como objetivo importar dados financeiros de um arquivo CS
 
 ## Tecnologias Utilizadas
 
-- [.NET 6.0 ou superior](https://dotnet.microsoft.com/)
+- [.NET 8.0](https://dotnet.microsoft.com/)
 - [CsvHelper](https://joshclose.github.io/CsvHelper/) - Leitura e conversão de arquivos CSV.
 - SQL Server - Banco de dados para armazenar os registros.
 
